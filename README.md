@@ -9,7 +9,6 @@ Welcome to my personal CV repository! This is where I host my professional resum
 - An outline of my **skills and educational background** 📘
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com) 🔗
-- [GitHub](https://www.github.com) 💻
-
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ruslan-tsibirov-6bb6a2262/)) 🔗
+- 
 Thank you for stopping by! If you find anything interesting or want to collaborate, feel free to reach out. 😊
