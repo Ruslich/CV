@@ -1,17 +1,15 @@
 
-# 📄 Veronika Rybak's CV
+# 📝 Ruslan Tsibirov's CV Repository
 
-Welcome to my CV repository! 🚀 Here, you’ll find my up-to-date resume showcasing my skills, experiences, and projects in **Data Science** and **Data Analytics**.
+Welcome to my personal CV repository! This is where I host my professional resume showcasing my experience, education, skills, and projects. Feel free to explore and download it.
 
-## 🌟 Highlights
-- Passionate Data Science student with hands-on experience in machine learning, data visualization, and analytics.
-- Proven track record in solving real-world challenges through data-driven solutions.
+## 📌 What's Inside?
+- A comprehensive overview of my **professional journey** 🛠️
+- Highlights of my **projects** and achievements 🚀
+- An outline of my **skills and educational background** 📘
 
-## 📂 What's Inside?
-This repository hosts a PDF version of my CV, optimized for prospective roles in **Data Science** and **Data Analytics**.
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com) 🔗
+- [GitHub](https://www.github.com) 💻
 
-## 📬 Connect with Me
-Feel free to reach out via email or check out my LinkedIn and GitHub profiles linked in the CV!
-
----
-Thanks for stopping by! 😊
+Thank you for stopping by! If you find anything interesting or want to collaborate, feel free to reach out. 😊
