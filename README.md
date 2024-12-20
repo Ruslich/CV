@@ -10,5 +10,6 @@ Welcome to my personal CV repository! This is where I host my professional resum
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ruslan-tsibirov-6bb6a2262/) 🔗
+- [Ruslan LinkTree](https://linktr.ee/rustsibirov) 🔗
   
 Thank you for stopping by! If you find anything interesting or want to collaborate, feel free to reach out. 😊
